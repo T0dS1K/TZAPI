@@ -1,6 +1,0 @@
-@TZAPI_HostAddress = http://localhost:5217
-
-GET {{TZAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
