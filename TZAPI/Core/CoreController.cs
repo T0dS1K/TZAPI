@@ -35,7 +35,7 @@ namespace TZAPI.Controllers
                 return Ok(Data);
             }
 
-            return NotFound();
+            return NotFound(new { status = "NotFound" });
         }
     }
 }

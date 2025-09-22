@@ -6,7 +6,7 @@ namespace TZAPI.Core
 {
     public class CoreRepository : ICoreRepository
     {
-        private readonly object LockUpdate = new();
+        private object LockUpdate { get; } = new();
         private ConcurrentDictionary<string, List<string>> DataStorage = new();
 
         public CoreRepository()

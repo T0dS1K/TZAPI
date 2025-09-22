@@ -2,3 +2,183 @@
 Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik
 Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl
 Крутая реклама:/ru/svrd
+
+Московский комсомолец:/ru/msk
+Вечерняя Москва:/ru/msk
+Коммерсантъ:/ru/msk,/ru/spb
+РБК:/ru/msk,/ru/spb,/ru/ekb,/ru/nsb
+Ведомости:/ru/msk,/ru/spb
+
+Известия:/ru/msk,/ru/spb,/ru/ekb
+Российская газета:/ru/msk,/ru/spb,/ru/nsb
+Аргументы и факты:/ru/msk,/ru/spb,/ru/ekb,/ru/nsb
+Труд:/ru/msk,/ru/spb,/ru/ekb
+Советский спорт:/ru/msk,/ru/spb
+
+Новая газета:/ru/msk,/ru/spb
+Московская правда:/ru/msk
+Санкт-Петербургские ведомости:/ru/spb
+Невское время:/ru/spb
+Вечерний Петербург:/ru/spb
+
+Уральский рабочий:/ru/ekb,/ru/svrd
+Областная газета:/ru/ekb
+Вечерний Екатеринбург:/ru/ekb
+Челябинский рабочий:/ru/chelobl
+Магнитогорский металл:/ru/chelobl
+
+Восточно-Сибирская правда:/ru/irkutsk
+Красноярский рабочий:/ru/krasnoyarsk
+Омская правда:/ru/omsk
+Новосибирские новости:/ru/nsb
+Тюменская область сегодня:/ru/tyumen
+
+Владивосток:/ru/vladvk
+Золотой Рог:/ru/vladvk
+Красное знамя:/ru/primorye
+Амурская правда:/ru/amurbl
+Сахалинская область:/ru/sakhalin
+
+Якутия:/ru/sakha
+Северный рабочий:/ru/murmansk
+Архангельск:/ru/arkhangelsk
+Вологда:/ru/vologda
+Коми правда:/ru/syktyvkar
+
+Нижегородская правда:/ru/nnov
+Волжская коммуна:/ru/samara
+Самарские известия:/ru/samara
+Татарстан:/ru/kazan
+Республика Татарстан:/ru/kazan
+
+Башкортостан:/ru/ufa
+Уфимские ведомости:/ru/ufa
+Пермские новости:/ru/permobl
+Звезда:/ru/permobl
+Вятский край:/ru/kirov
+
+Курская правда:/ru/kursk
+Белгородские известия:/ru/belgorod
+Воронежский курьер:/ru/voronezh
+Липецкая газета:/ru/lipeck
+Тамбовская жизнь:/ru/tambov
+
+Ярославские ведомости:/ru/yaroslavl
+Костромские вести:/ru/kostroma
+Ивановская газета:/ru/ivanovo
+Владимирские ведомости:/ru/vladimir
+Тверская жизнь:/ru/tver
+
+Калужские вести:/ru/kaluga
+Брянские новости:/ru/bryansk
+Смоленская газета:/ru/smolensk
+Орловская правда:/ru/orel
+Рязанские ведомости:/ru/ryazan
+
+Тульские известия:/ru/tula
+Пензенская правда:/ru/penza
+Мордовия:/ru/saransk
+Чувашская правда:/ru/cheboksary
+Удмуртская правда:/ru/izhevsk
+
+Ставропольская правда:/ru/stavropol
+Кубанские новости:/ru/krasnodar
+АиФ-Юг:/ru/rostov,/ru/krasnodar
+Черноморская здравница:/ru/sochi
+Северная Осетия:/ru/vladikavkaz
+
+Дагестанская правда:/ru/makhachkala
+Кабардино-Балкарская правда:/ru/nalchik
+Чеченская республика:/ru/grozny
+Ингушетия:/ru/magas
+Калмыкия:/ru/elista
+
+Крымская правда:/ru/simferopol
+Севастопольская газета:/ru/sevastopol
+Керченский вестник:/ru/kerch
+Ялтинские вести:/ru/yalta
+Феодосийская газета:/ru/feodosiya
+
+Карелия:/ru/petrozavodsk
+КомиNews:/ru/syktyvkar
+Ненецкий автономный округ:/ru/naryanmar
+Ханты-Мансийский автономный округ:/ru/hmansiysk
+Ямал-Медиа:/ru/salekhard
+
+Заполярная правда:/ru/norilsk
+Норильский никель:/ru/norilsk
+Мурманский вестник:/ru/murmansk
+Арктическая звезда:/ru/murmansk
+Беломорские вести:/ru/arkhangelsk
+
+Дальневосточный капитал:/ru/vladvk
+Приморский бизнес:/ru/vladvk
+Хабаровские вести:/ru/khabarovsk
+Амурский меридиан:/ru/blagoveshchensk
+Сахалинский нефтяник:/ru/yuzhnosakhalinsk
+
+Камчатское время:/ru/petropavlovsk
+Магаданская правда:/ru/magadan
+Чукотка:/ru/anadyr
+Билибинский вестник:/ru/bilibino
+Анадырские новости:/ru/anadyr
+
+Сибирский нефтяник:/ru/surgut
+Нижневартовские вести:/ru/nizhnevartovsk
+Сургутская трибуна:/ru/surgut
+Нефтеюганские новости:/ru/nefteyugansk
+Когалымский вестник:/ru/kogalym
+
+Новокузнецкие ведомости:/ru/novokuznetsk
+Прокопьевская газета:/ru/prokopyevsk
+Кемеровские новости:/ru/kemerovo
+Ленинск-Кузнецкий вестник:/ru/leninsk-kuznetsky
+Анжеро-Судженские вести:/ru/anzherosudzhensk
+
+Альметьевские новости:/ru/almetyevsk
+Набережночелнинская газета:/ru/nabchelny
+Нижнекамские вести:/ru/nizhnekamsk
+Бугульминские известия:/ru/bugulma
+Елабугские ведомости:/ru/elabuga
+
+Оренбургские новости:/ru/orenburg
+Орский вестник:/ru/orsk
+Новотроицкие вести:/ru/novotroitsk
+Бузулукская газета:/ru/buzuluk
+Гайские новости:/ru/gay
+
+Саратовские вести:/ru/saratov
+Балаковские новости:/ru/balakovo
+Энгельсские ведомости:/ru/engels
+Вольская жизнь:/ru/volsk
+Балашовские известия:/ru/balashov
+
+Волгоградская правда:/ru/volgograd
+Волжские вести:/ru/volzhsky
+Камышинские известия:/ru/kamyshin
+Михайловские новости:/ru/mikhaylovka
+Урюпинские вести:/ru/uryupinsk
+
+Астраханские ведомости:/ru/astrahan
+Ахтубинские новости:/ru/akhtubinsk
+Знамя Каспия:/ru/kaspijsk
+Наримановские вести:/ru/narimanov
+Харабалинские известия:/ru/kharabali
+
+Калининградская правда:/ru/kaliningrad
+Страна Калининград:/ru/kaliningrad
+Янтарный край:/ru/kaliningrad
+Балтийские вести:/ru/baltyisk
+Советские новости:/ru/sovetsk
+
+Псковская губерния:/ru/pskov
+Великолукские вести:/ru/velikieluki
+Новгородские ведомости:/ru/novgorod
+Старая Русса:/ru/starayarussa
+Боровичские известия:/ru/borovichi
+
+Карелprom:/ru/kostomuksha
+Кондопожские вести:/ru/kondopoga
+Сегежские новости:/ru/segеzha
+Медвежьегорские известия:/ru/medvezhyegorsk
+Сортавальские вести:/ru/sortavala
