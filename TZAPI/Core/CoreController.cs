@@ -14,7 +14,7 @@ namespace TZAPI.Controllers
             this.ICoreRepository = ICoreRepository;
         }
 
-        [HttpGet("UpdateData")]
+        [HttpPut("UpdateData")]
         public ActionResult UpdateData()
         {
             if (ICoreRepository.UpdateData(out string em))
